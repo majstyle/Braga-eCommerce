@@ -1,2 +1,2 @@
 # Braga-eCommerce
-Braga is an eCommerce webapp that sells both male and female shoes. 
+Braga is an eCommerce web app that sells both male and female shoes. 
